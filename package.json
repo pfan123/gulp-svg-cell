@@ -1,0 +1,25 @@
+{
+  "name": "gulp-svg-cell",
+  "version": "1.0.0",
+  "description": "svg gulp-svg-cell svg sprites",
+  "main": "index.js",
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "gulp-util": "^3.0.7",
+    "through-gulp": "^0.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pfan123/gulp-svg-cell.git"
+  },
+  "author": "@pfan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pfan123/gulp-svg-cell/issues"
+  },
+  "homepage": "https://github.com/pfan123/gulp-svg-cell#readme"
+}
